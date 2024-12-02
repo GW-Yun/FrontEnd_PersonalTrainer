@@ -1,0 +1,15 @@
+.rbc-time-slot {
+    min-height: 35px;
+}
+
+.rbc-day-slot {
+    min-height: 420px;
+}
+
+.rbc-event {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: flex;
+    flex-direction: column;
+}
